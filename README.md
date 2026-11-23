@@ -64,7 +64,7 @@ O Instagram é manual de propósito: não há API que resolva o que interessa l�
 ```bash
 sudo apt install ffmpeg mpv fonts-inter xfonts-scalable fonts-ebgaramond-extra
 
-git clone https://github.com/pablocarvalho0/refinaria-musical.git ~/video && cd ~/video
+git clone https://github.com/kithara-tech/refinaria-video.git ~/video && cd ~/video
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
